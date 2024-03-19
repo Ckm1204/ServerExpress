@@ -45,5 +45,6 @@ const usersPost = (req = request, res = response)=>{
 
 module.exports = {
     usersGet,
-    usersPost
+    usersPost,
+    addUser
 }
